@@ -65,5 +65,10 @@ my_function()
 
 import MyFunctions # Import Resource File
 
-MyFunctions.print_hello() # Call a function
-      
+# MyFunctions.print_hello() # Call a function
+# MyFunctions.print_message()
+
+str1 = "I like to read Python"
+MyFunctions.print_message(str1) #  Calling a function - Passing value
+
+
