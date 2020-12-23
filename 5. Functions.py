@@ -35,7 +35,6 @@ def function_name():
 
 function_name : variable_name (identifier)
 
-
 # Puskar Karki
 def sum(a, b):
    return a + b
@@ -48,7 +47,6 @@ def my_function():
     print("Hello from function")
 
 my_function()
-
 
 # create function in one file (MyFunctions.py)
 # call function in another file(test.py)
@@ -70,5 +68,3 @@ import MyFunctions # Import Resource File
 
 str1 = "I like to read Python"
 MyFunctions.print_message(str1) #  Calling a function - Passing value
-
-
