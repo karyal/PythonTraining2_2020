@@ -1,3 +1,0 @@
-
-Web Designing - [HTML, CSS, JavaScript (AJAX, JQUERY), Bootstrap]
-Web Development - Programming (Web Designing + Web Programming (i.e. php, jsp, asp.net, django))
