@@ -53,12 +53,56 @@ try:
     num3 = num1/num2
     print("Resutl : ", num3)
 except:
+    # print error message
     print("Error : ", sys.exc_info()[1])
 finally:
+    # free memory
     del num1
     del num2
     del num3
 
-# HW
-    # How to handle multiple errors
-    # User defined errors - handling
+# HW Jan 5, 2021
+# 1. How to handle multiple errors
+import sys
+# declare
+list1 = [1, 7, 2, 6, 5]
+num1 = 5
+try:
+    print("Result 1 : ", list1[4]) # Error :  list index out of range
+    print("Result 2 : ", list1[3]/num1) # Error :  division by zero
+except IndexError:
+    print("Error1 : ", sys.exc_info()[1])
+except ZeroDivisionError:
+    print("Error2 : ", sys.exc_info()[1])
+except:
+    print("Error3 : ", sys.exc_info()[1])
+finally:
+    del num1
+    del list1
+
+# User defined errors - handling
+class MyException(Exception):
+    pass
+# Create User Defined Class MyError which is inherited from Exception Class(System Defined Class)
+
+class ValueToSamllException(MyException):
+    pass
+
+class ValueToLargeException(MyException):
+    pass
+
+# Test program which test the user defined exceptions
+num1 = 7
+try:
+    if num1>10:
+        raise ValueToLargeException
+    elif num1<5:
+        raise ValueToSamllException
+    else:
+        print("Num1 =", num1)
+except ValueToLargeException:
+    print("Error: Value to large in range.")
+except ValueToSamllException:
+    print("Error: Value to small in range.")
+finally:
+    del num1
