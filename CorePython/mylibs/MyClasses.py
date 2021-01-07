@@ -1,4 +1,5 @@
 # __str__ method to print multiple variables
+
 class Class6():
     # initializer method (function) with parameter
     def __init__(self, var1=0, var2=0):
@@ -97,3 +98,30 @@ class Class8(Class7):# Inheritance Class8 - Sub Class and Class7 - Super Class
 
     def __str__(self):
         return super().__str__()+", "+str(self.var3)
+
+class Class9():
+    def __init__(self, num1=0, num2=0):
+        self.num1 = num1
+        self.num2 = num2
+
+    # Getters
+    def getNum1(self):
+        return self.num1
+
+    def getNum2(self):
+        return self.num2
+
+    def setNum1(self, num1=0):
+        self.num1=num1
+
+    def setNum2(self, num2=0):
+        self.num2=num2
+
+    def __str__(self):
+        return str(self.num1)+", "+str(self.num2)
+
+    # Operator Overloading
+    # + Add Operator
+    def __add__(self, other):
+        return self.num1 + other.num1, self.num2 + other.num2
+
