@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="204baae0-d1e8-4891-9de2-ba66b76a36a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CorePython/rdbms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorePython/rdbms/crud_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorePython/rdbms/mydb.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorePython/rdbms/sqlite_crud.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app1_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PythonTraining0_2020/Projects/CorePython" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -101,6 +105,7 @@
       <workItem from="1609763012755" duration="3368000" />
       <workItem from="1609769754715" duration="11000" />
       <workItem from="1609938503663" duration="3803000" />
+      <workItem from="1610454967899" duration="702000" />
     </task>
     <servers />
   </component>
@@ -121,5 +126,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1884" y="111" key="FileChooserDialogImpl" timestamp="1610455132135">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1884" y="111" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1610455132135" />
   </component>
 </project>
