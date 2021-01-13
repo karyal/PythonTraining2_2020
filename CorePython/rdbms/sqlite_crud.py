@@ -47,3 +47,66 @@ def insert_record(values):
     finally:
         cursor.close()
         conn.close()
+
+def select_all():
+    str_sql ="""SELECT * FROM tbl_persons"""
+    try:
+        conn = sqlite3.connect(DB_FILE)
+        cursor = conn.cursor()
+        cursor.execute(str_sql)
+        # rows = cursor.fetchone()# First Record
+        rows = cursor.fetchall()
+        for row in rows:
+            print(row)# tuple
+            print()
+    except:
+        print("Error : ", sys.exc_info()[1])
+    finally:
+        cursor.close()
+        conn.close()
+
+def search_record(person_id):
+    str_sql ="""SELECT * FROM tbl_persons WHERE person_id = ?"""
+    values = (person_id, )
+    try:
+        conn = sqlite3.connect(DB_FILE)
+        cursor = conn.cursor()
+        cursor.execute(str_sql, values)
+        # rows = cursor.fetchone()# First Record
+        rows = cursor.fetchall()
+        for row in rows:
+            print(row)# tuple
+            print()
+    except:
+        print("Error : ", sys.exc_info()[1])
+    finally:
+        cursor.close()
+        conn.close()
+
+def update_record(values):
+    str_sql ="""UPDATE tbl_persons SET full_name=?, contact_address=? where person_id = ?"""
+    try:
+        conn = sqlite3.connect(DB_FILE)
+        cursor = conn.cursor()
+        cursor.execute(str_sql, values)
+        conn.commit()
+        print("Update record successfully")
+    except:
+        print("Error : ", sys.exc_info()[1])
+    finally:
+        cursor.close()
+        conn.close()
+
+def delete_record(values):
+    str_sql = """DELETE FROM tbl_persons where person_id = ?"""
+    try:
+        conn = sqlite3.connect(DB_FILE)
+        cursor = conn.cursor()
+        cursor.execute(str_sql, values)
+        conn.commit()
+        print("Delete Record Successfully")
+    except:
+        print("Error : ", sys.exc_info()[1])
+    finally:
+        cursor.close()
+        conn.close()
