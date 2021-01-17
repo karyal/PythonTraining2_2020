@@ -1,4 +1,3 @@
-
 from rdbms.sqlite_crud import *
 
 # connect()
@@ -33,4 +32,3 @@ Task-1
 # for Research
     # Try to connect with MySQL, SQL Server, Oracle, Postgre, MS Access
     # Try to connect with SQLITE, DynamoDB, MangoDB
-
