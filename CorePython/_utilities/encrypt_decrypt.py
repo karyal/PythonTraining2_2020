@@ -1,24 +1,24 @@
 # Installing
 # Install C++ Build Tools
-# https://visualstudio.microsoft.com/visual-cpp-build-tools/
+    # https://visualstudio.microsoft.com/visual-cpp-build-tools/
 # python -m pip install cryptography
 # Manually add  cryptography from Project Setting
 
 # Import Library
 import cryptography
-
+"""
 # Getting a Key
 from cryptography.fernet import Fernet
 key = Fernet.generate_key()
 print(key)
 
 # Storing Keys
-file = open('key.key', 'wb')
+file = open('key.key', 'wb') # Write Binary
 file.write(key) # The key is type bytes still
 file.close()
 
 # Reading Keys
-file = open('key.key', 'rb')
+file = open('key.key', 'rb')# Read Binary
 key = file.read() # The key will be type bytes
 file.close()
 print(key)
@@ -42,6 +42,7 @@ kdf = PBKDF2HMAC(
 )
 key = base64.urlsafe_b64encode(kdf.derive(password)) # Can only use kdf once
 print(key)
+"""
 
 # Encrypting
 from cryptography.fernet import Fernet
@@ -64,7 +65,7 @@ decrypted = f.decrypt(encrypted)
 print(decrypted)
 
 #Encrypting and Decrypting Files
-
+"""
 # Encrypting Files
 from cryptography.fernet import Fernet
 input_file = 'test.txt'
@@ -92,3 +93,4 @@ encrypted = fernet.decrypt(data)
 print(encrypted.decode())
 with open(output_file, 'wb') as f:
     f.write(encrypted)
+"""
