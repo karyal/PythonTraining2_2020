@@ -1,17 +1,17 @@
-import csv
+import _csv
 import sys
 
-FILE_NAME = "data1.csv"
+FILE_NAME = "data1._csv"
 
 def write_csv1():
     try:
         nums = [[1,2,3,4,5],[6,7,8,9,10]]
         file = open(FILE_NAME, "w")
         with file:
-            writer = csv.writer(file)
+            writer = _csv.writer(file)
             for row in nums:
                 writer.writerow(row)
-            print("Write on csv file")
+            print("Write on _csv file")
         file.close()
     except:
         print("Error : "+sys.exc_info()[1])
@@ -20,7 +20,7 @@ def read_csv1():
     try:
         file = open(FILE_NAME, "r")
         with file:
-            reader = csv.reader(file)
+            reader = _csv.reader(file)
             for row in reader:
                 if len(row)>=1:
                     print(row, end="\n")
@@ -35,7 +35,7 @@ def write_csv2():
         file = open(FILE_NAME, "w")
         with file:
             fields = ["first_name","last_name"]
-            writer = csv.DictWriter(file, fields)
+            writer = _csv.DictWriter(file, fields)
             writer.writeheader()
             writer.writerow({"first_name":"Raj","last_name":"Thapa"})
             writer.writerow({"first_name": "Kiran", "last_name": "Rai"})
@@ -47,7 +47,7 @@ def read_csv2():
     try:
         file = open(FILE_NAME, "r")
         with file:
-            reader = csv.DictReader(file)
+            reader = _csv.DictReader(file)
             for row in reader:
                 print(row)
         file.close()
