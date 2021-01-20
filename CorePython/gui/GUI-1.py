@@ -30,7 +30,7 @@ obj_icon = PhotoImage(file="icon.png")
 frame.iconphoto(False, obj_icon)
 
 frame.mainloop() # Display Window
-"""
+
 # Task-2
     # Label Control - Display message about control/user prompt
     # Text Box - Input Single Line Text
@@ -70,3 +70,27 @@ frame.mainloop() # Display Window
 # Task-2
     # Add click event on Button Class
     # Perform Addition
+"""
+
+# Click Event on Button
+from tkinter import *
+
+def f1():
+    n1 = float(txt_n1.get())
+    n1 +=1.05
+    print("Result : ", n1)
+    txt_n1.delete(0, len(txt_n1.get()))
+    txt_n1.insert(0, "Hello")
+
+frame = Tk()
+frame.geometry("400x250")
+frame.title("Click Event")
+frame.resizable(False, False)
+
+txt_n1 = Entry(frame)
+txt_n1.place(x=10, y=20)
+
+btn_ok = Button(frame, text="Click Me", command = f1)
+btn_ok.place(x=10, y=100)
+
+frame.mainloop()
