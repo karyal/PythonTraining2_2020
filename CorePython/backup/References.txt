@@ -1,0 +1,19 @@
+# __Big_O
+# how much time and space takes the computer to do something.
+# O(n)
+# O(n^2)
+# O(n!)
+
+# Tasks
+# 1. Caesar cipher # https://www.youtube.com/watch?v=o6TPx1Co_wg
+# 2. Two sum # https://www.youtube.com/watch?v=2uWRxgN1Sbo
+# 3. Playing card # https://www.youtube.com/watch?v=Kp2MXPSM1xo
+# 4. Random walk # https://www.youtube.com/watch?v=BfS2H1y6tzQ
+# 5. Sierpinski triangle # https://www.youtube.com/watch?v=G2A_Yg-JXxY
+# 6. Tower of Hanoi # https://www.youtube.com/watch?v=0u7g9C0wSIA
+# 7. Sorting
+# 8. Searching
+# 9. Validation
+# 10. Luhn's Algorithm - Credit Card Validation
+# 11. Coins Algorithm
+# 12. Exercises: # https://www.dropbox.com/sh/l4vkrqnjo2hk9o5/AACKV8whQd_Lht1jT7-KQnV5a?dl=0

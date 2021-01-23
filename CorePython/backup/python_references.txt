@@ -1,0 +1,6 @@
+Python Path
+C:\Users\admin\AppData\Local\Programs\Python\Python37-32
+C:\Users\admin\PycharmProjects\Project01\venv\Scripts\python.exe
+
+Open CV
+https://realpython.com/face-recognition-with-python/#installing-opencv

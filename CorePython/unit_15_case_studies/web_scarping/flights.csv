@@ -1,0 +1,209 @@
+;Flight_From;Flight_To;Airlines;Duration
+0;Kathmandu;Pokhara;Yeti Airlines;25.0
+1;Kathmandu;Pokhara;Yeti Airlines;25.0
+2;Kathmandu;Pokhara;Buddha Air;30.0
+3;Kathmandu;Pokhara;Yeti Airlines;25.0
+4;Kathmandu;Pokhara;Buddha Air;30.0
+5;Kathmandu;Pokhara;Yeti Airlines;25.0
+6;Kathmandu;Pokhara;Buddha Air;30.0
+7;Kathmandu;Pokhara;Yeti Airlines;25.0
+8;Kathmandu;Pokhara;Buddha Air;30.0
+9;Kathmandu;Pokhara;Yeti Airlines;25.0
+10;Kathmandu;Pokhara;Yeti Airlines;25.0
+11;Pokhara;Kathmandu;Yeti Airlines;25.0
+12;Pokhara;Kathmandu;Yeti Airlines;25.0
+13;Pokhara;Kathmandu;Buddha Air;30.0
+14;Pokhara;Kathmandu;Yeti Airlines;25.0
+15;Pokhara;Kathmandu;Buddha Air;30.0
+16;Pokhara;Kathmandu;Yeti Airlines;25.0
+17;Pokhara;Kathmandu;Buddha Air;30.0
+18;Pokhara;Kathmandu;Yeti Airlines;25.0
+19;Pokhara;Kathmandu;Buddha Air;30.0
+20;Pokhara;Kathmandu;Yeti Airlines;25.0
+21;Pokhara;Kathmandu;Yeti Airlines;25.0
+22;Kathmandu;Bhairahawa;Yeti Airlines;20.0
+23;Bhairahawa;Kathmandu;Yeti Airlines;20.0
+24;Kathmandu;Dhangadhi;Yeti Airlines;70.0
+25;Dhangadhi;Kathmandu;Yeti Airlines;70.0
+26;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+27;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+28;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+29;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+30;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+31;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+32;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+33;Kathmandu;Nepalgunj;Yeti Airlines;55.0
+34;Nepalgunj;Kathmandu;Yeti Airlines;55.0
+35;Kathmandu;Nepalgunj;Yeti Airlines;55.0
+36;Nepalgunj;Kathmandu;Yeti Airlines;55.0
+37;Kathmandu;Janakpur;Yeti Airlines;25.0
+38;Janakpur;Kathmandu;Yeti Airlines;25.0
+39;Kathmandu;Janakpur;Yeti Airlines;25.0
+40;Janakpur;Kathmandu;Yeti Airlines;25.0
+41;Kathmandu;Pokhara;Yeti Airlines;25.0
+42;Pokhara;Kathmandu;Yeti Airlines;25.0
+43;Kathmandu;Biratnagar;Yeti Airlines;40.0
+44;Biratnagar;Kathmandu;Yeti Airlines;40.0
+45;Kathmandu;Biratnagar;Yeti Airlines;40.0
+46;Biratnagar;Kathmandu;Yeti Airlines;40.0
+47;Kathmandu;Biratnagar;Yeti Airlines;40.0
+48;Biratnagar;Kathmandu;Yeti Airlines;40.0
+49;Kathmandu;Biratnagar;Yeti Airlines;40.0
+50;Biratnagar;Kathmandu;Yeti Airlines;40.0
+51;Kathmandu;Bhairahawa;Yeti Airlines;30.0
+52;Bhairahawa;Kathmandu;Yeti Airlines;30.0
+53;Kathmandu;Bhairahawa;Yeti Airlines;30.0
+54;Bhairahawa;Kathmandu;Yeti Airlines;30.0
+55;Kathmandu;Bhadrapur;Yeti Airlines;45.0
+56;Bhadrapur;Kathmandu;Yeti Airlines;45.0
+57;Kathmandu;Bhadrapur;Yeti Airlines;45.0
+58;Bhadrapur;Kathmandu;Yeti Airlines;45.0
+59;Kathmandu;Tumlingtar;Yeti Airlines;35.0
+60;Tumlingtar;Kathmandu;Yeti Airlines;35.0
+61;Kathmandu;Mountain Flight;Buddha Air;60.0
+62;Kathmandu;Mountain Flight;Buddha Air;60.0
+63;Kathmandu;Mountain Flight;Buddha Air;60.0
+64;Kathmandu;Mountain Flight;Buddha Air;60.0
+65;Kathmandu;Mountain Flight;Buddha Air;60.0
+66;Kathmandu;Mountain Flight;Buddha Air;60.0
+67;Kathmandu;Mountain Flight;Yeti Airlines;60.0
+68;Kathmandu;Bhadrapur;Buddha Air;50.0
+69;Kathmandu;Bhadrapur;Buddha Air;50.0
+70;Kathmandu;Bhairahawa;Buddha Air;35.0
+71;Kathmandu;Bhairahawa;Buddha Air;35.0
+72;Kathmandu;Bhairahawa;Buddha Air;35.0
+73;Kathmandu;Bharatpur;Buddha Air;20.0
+74;Kathmandu;Bharatpur;Buddha Air;20.0
+75;Kathmandu;Biratnagar;Buddha Air;40.0
+76;Kathmandu;Biratnagar;Buddha Air;40.0
+77;Kathmandu;Biratnagar;Buddha Air;40.0
+78;Kathmandu;Biratnagar;Buddha Air;40.0
+79;Kathmandu;Biratnagar;Buddha Air;40.0
+80;Kathmandu;Biratnagar;Buddha Air;40.0
+81;Kathmandu;Dhangadi;Buddha Air;70.0
+82;Kathmandu;Janakpur;Buddha Air;25.0
+83;Kathmandu;Janakpur;Buddha Air;25.0
+84;Kathmandu;Nepalgunj;Buddha Air;60.0
+85;Kathmandu;Nepalgunj;Buddha Air;60.0
+86;Kathmandu;Pokhara;Yeti Airlines;30.0
+87;Kathmandu;Pokhara;Buddha Air;30.0
+88;Kathmandu;Pokhara;Buddha Air;30.0
+89;Kathmandu;Simara;Buddha Air;15.0
+90;Kathmandu;Simara;Buddha Air;15.0
+91;Kathmandu;Simara;Buddha Air;15.0
+92;Kathmandu;Simara;Buddha Air;15.0
+93;Kathmandu;Simara;Buddha Air;15.0
+94;Kathmandu;Simara;Buddha Air;15.0
+95;Kathmandu;Surkhet;Buddha Air;65.0
+96;Kathmandu;Tumlingtar;Buddha Air;35.0
+97;Bhadrapur;Kathmandu;Buddha Air;50.0
+98;Bhadrapur;Kathmandu;Buddha Air;50.0
+99;Bhairahawa;Kathmandu;Buddha Air;35.0
+100;Bhairahawa;Kathmandu;Buddha Air;35.0
+101;Bhairahawa;Kathmandu;Buddha Air;35.0
+102;Bharatpur;Kathmandu;Buddha Air;20.0
+103;Bharatpur;Kathmandu;Buddha Air;20.0
+104;Biratnagar;Kathmandu;Buddha Air;40.0
+105;Biratnagar;Kathmandu;Buddha Air;40.0
+106;Biratnagar;Kathmandu;Buddha Air;40.0
+107;Biratnagar;Kathmandu;Buddha Air;40.0
+108;Biratnagar;Kathmandu;Buddha Air;40.0
+109;Biratnagar;Kathmandu;Buddha Air;40.0
+110;Biratnagar;Tumlingtar;Buddha Air;15.0
+111;Dhangadhi;Kathmandu;Buddha Air;70.0
+112;Janakpur;Kathmandu;Buddha Air;25.0
+113;Janakpur;Kathmandu;Buddha Air;25.0
+114;Nepalgunj;Kathmandu;Buddha Air;60.0
+115;Nepalgunj;Kathmandu;Buddha Air;60.0
+116;Pokhara;Kathmandu;Buddha Air;30.0
+117;Pokhara;Kathmandu;Buddha Air;30.0
+118;Simara;Kathmandu;Buddha Air;15.0
+119;Simara;Kathmandu;Buddha Air;15.0
+120;Simara;Kathmandu;Buddha Air;15.0
+121;Simara;Kathmandu;Buddha Air;15.0
+122;Simara;Kathmandu;Buddha Air;15.0
+123;Simara;Kathmandu;Buddha Air;15.0
+124;Surkhet;Kathmandu;Buddha Air;65.0
+125;Tumlingtar;Biratnagar;Buddha Air;15.0
+126;Tumlingtar;Kathmandu;Buddha Air;35.0
+127;Kathmandu;Lukla;Tara Airlines;35.0
+128;Kathmandu;Lukla;Tara Airlines;35.0
+129;Kathmandu;Lukla;Tara Airlines;35.0
+130;Kathmandu;Lukla;Tara Airlines;35.0
+131;Kathmandu;Lukla;Tara Airlines;35.0
+132;Kathmandu;Lukla;Tara Airlines;35.0
+133;Kathmandu;Lukla;Tara Airlines;35.0
+134;Kathmandu;Lukla;Tara Airlines;35.0
+135;Kathmandu;Lukla;Tara Airlines;35.0
+136;Kathmandu;Lukla;Tara Airlines;35.0
+137;Kathmandu;Phaplu;Tara Airlines;35.0
+138;Kathmandu;Lamidanda;Tara Airlines;35.0
+139;Kathmandu;Ramechhap;Tara Airlines;25.0
+140;Lukla;Kathmandu;Tara Airlines;35.0
+141;Lukla;Kathmandu;Tara Airlines;35.0
+142;Lukla;Kathmandu;Tara Airlines;35.0
+143;Lukla;Kathmandu;Tara Airlines;35.0
+144;Lukla;Kathmandu;Tara Airlines;35.0
+145;Lukla;Kathmandu;Tara Airlines;35.0
+146;Lukla;Kathmandu;Tara Airlines;35.0
+147;Lukla;Kathmandu;Tara Airlines;35.0
+148;Lukla;Kathmandu;Tara Airlines;35.0
+149;Lukla;Kathmandu;Tara Airlines;35.0
+150;Phaplu;Kathmandu;Tara Airlines;35.0
+151;Lamidanda;Kathmandu;Tara Airlines;35.0
+152;Ramechhap;Kathmandu;Tara Airlines;25.0
+153;Nepalgunj;Dolpo;Tara Airlines;45.0
+154;Nepalgunj;Rara;Tara Airlines;50.0
+155;Nepalgunj;Simikot;Tara Airlines;60.0
+156;Nepalgunj;Jumla;Tara Airlines;45.0
+157;Nepalgunj;Bajura;Tara Airlines;35.0
+158;Dolpo;Nepalgunj;Tara Airlines;45.0
+159;Rara;Nepalgunj;Tara Airlines;50.0
+160;Simikot;Nepalgunj;Tara Airlines;60.0
+161;Jumla;Nepalgunj;Tara Airlines;45.0
+162;Bajura;Nepalgunj;Tara Airlines;35.0
+163;Surkhet;Simikot;Tara Airlines;45.0
+164;Surkhet;Dolpo;Tara Airlines;40.0
+165;Surkhet;Jumla;Tara Airlines;25.0
+166;Simikot;Surkhet;Tara Airlines;45.0
+167;Dolpo;Surkhet;Tara Airlines;40.0
+168;Jumla;Surkhet;Tara Airlines;25.0
+169;Kathmandu;Pokhara;Tara Airlines;30.0
+170;Kathmandu;Lukla;Tara Airlines;30.0
+171;Kathmandu;Lukla;Tara Airlines;30.0
+172;Kathmandu;Lukla;Tara Airlines;30.0
+173;Lukla;Kathmandu;Tara Airlines;30.0
+174;Lukla;Kathmandu;Tara Airlines;30.0
+175;Lukla;Kathmandu;Tara Airlines;30.0
+176;Pokhara;Kathmandu;Tara Airlines;30.0
+177;Pokhara;Jomsom;Tara Airlines;20.0
+178;Jomsom;Pokhara;Tara Airlines;20.0
+179;Kathmandu;Mountain Flight;Simrik Airlines;60.0
+180;Kathmandu;Mountain Flight;Simrik Airlines;60.0
+181;Kathmandu;Mountain Flight;Simrik Airlines;60.0
+182;Kathmandu;Mountain Flight;Simrik Airlines;60.0
+183;Kathmandu;Mountain Flight;Simrik Airlines;60.0
+184;Kathmandu;Lukla;Simrik Airlines;25.0
+185;Lukla;Kathmandu;Simrik Airlines;25.0
+186;Kathmandu;Lukla;Simrik Airlines;25.0
+187;Lukla;Kathmandu;Simrik Airlines;25.0
+188;Kathmandu;Lukla;Simrik Airlines;25.0
+189;Lukla;Kathmandu;Simrik Airlines;25.0
+190;Kathmandu;Lukla;Simrik Airlines;25.0
+191;Lukla;Lukla;Simrik Airlines;25.0
+192;Kathmandu;Pokhara;Simrik Airlines;30.0
+193;Pokhara;Kathmandu;Simrik Airlines;30.0
+194;Kathmandu;Pokhara;Simrik Airlines;30.0
+195;Pokhara;Kathmandu;Simrik Airlines;30.0
+196;Kathmandu;Pokhara;Simrik Airlines;30.0
+197;Pokhara;Kathmandu;Simrik Airlines;30.0
+198;Kathmandu;Pokhara;Simrik Airlines;30.0
+199;Pokhara;Kathmandu;Simrik Airlines;30.0
+200;Kathmandu;Pokhara;Simrik Airlines;30.0
+201;Pokhara;Kathmandu;Simrik Airlines;30.0
+202;Kathmandu;Simara;Simrik Airlines;15.0
+203;Simara;Kathmandu;Simrik Airlines;15.0
+204;Kathmandu;Simara;Simrik Airlines;15.0
+205;Simara;Kathmandu;Simrik Airlines;15.0
+206;Kathmandu;Bhairahawa;Simrik Airlines;35.0
+207;Bhairahawa;Kathmandu;Simrik Airlines;35.0

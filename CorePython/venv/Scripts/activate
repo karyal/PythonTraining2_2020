@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\KrishnaAryal\Training2020\Python\PythonTraining2_2020\CorePython\venv"
+VIRTUAL_ENV="D:\KrishnaAryal\Training2020\Python\PythonTraining0_2020\CorePython\CorePython\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

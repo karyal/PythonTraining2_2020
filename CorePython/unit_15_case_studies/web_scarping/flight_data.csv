@@ -1,0 +1,209 @@
+#;Flight From;Flight To;Airlines;Flight No;Flight Time;Arrival Time;Remarks
+0;Kathmandu;Pokhara;Yeti Airlines;YT 671;08:00:00;08:25:00;Book Now
+1;Kathmandu;Pokhara;Yeti Airlines;YT 673;08:05:00;08:30:00;Book Now
+2;Kathmandu;Pokhara;Buddha Air;U4 605;08:30:00;09:00:00;Book Now
+3;Kathmandu;Pokhara;Yeti Airlines;YT 675;09:10:00;09:35:00;Book Now
+4;Kathmandu;Pokhara;Buddha Air;U4 611;10:10:00;10:40:00;Book Now
+5;Kathmandu;Pokhara;Yeti Airlines;YT 677;10:50:00;11:15:00;Book Now
+6;Kathmandu;Pokhara;Buddha Air;U4 607;12:10:00;12:40:00;Book Now
+7;Kathmandu;Pokhara;Yeti Airlines;YT 679;12:30:00;12:55:00;Book Now
+8;Kathmandu;Pokhara;Buddha Air;U4 609;14:20:00;14:50:00;Book Now
+9;Kathmandu;Pokhara;Yeti Airlines;YT 683;14:50:00;15:15:00;Book Now
+10;Kathmandu;Pokhara;Yeti Airlines;YT 685;15:40:00;16:05:00;Book Now
+11;Pokhara;Kathmandu;Yeti Airlines;YT 672;08:45:00;09:10:00;Book Now
+12;Pokhara;Kathmandu;Yeti Airlines;YT 674;08:50:00;09:15:00;Book Now
+13;Pokhara;Kathmandu;Buddha Air;U4 606;09:20:00;09:50:00;Book Now
+14;Pokhara;Kathmandu;Yeti Airlines;YT 676;09:50:00;10:15:00;Book Now
+15;Pokhara;Kathmandu;Buddha Air;U4 612;11:00:00;11:30:00;Book Now
+16;Pokhara;Kathmandu;Yeti Airlines;YT 678;11:35:00;12:00:00;Book Now
+17;Pokhara;Kathmandu;Buddha Air;U4 608;13:00:00;13:30:00;Book Now
+18;Pokhara;Kathmandu;Yeti Airlines;YT 680;13:15:00;13:40:00;Book Now
+19;Pokhara;Kathmandu;Buddha Air;U4 610;15:10:00;15:40:00;Book Now
+20;Pokhara;Kathmandu;Yeti Airlines;YT 684;15:35:00;16:00:00;Book Now
+21;Pokhara;Kathmandu;Yeti Airlines;YT 686;16:25:00;16:50:00;Book Now
+22;Kathmandu;Bhairahawa;Yeti Airlines;175;11:50:00;12:10:00;Book Now
+23;Bhairahawa;Kathmandu;Yeti Airlines;176;12:30:00;12:50:00;Book Now
+24;Kathmandu;Dhangadhi;Yeti Airlines;231;12:30:00;13:40:00;Book Now
+25;Dhangadhi;Kathmandu;Yeti Airlines;232;14:00:00;15:10:00;Book Now
+26;Kathmandu;Mountain Flight;Yeti Airlines;301;06:30:00;07:30:00;Book Now
+27;Kathmandu;Mountain Flight;Yeti Airlines;302;06:30:00;07:30:00;Book Now
+28;Kathmandu;Mountain Flight;Yeti Airlines;304;06:30:00;07:30:00;Book Now
+29;Kathmandu;Mountain Flight;Yeti Airlines;305;06:35:00;07:35:00;Book Now
+30;Kathmandu;Mountain Flight;Yeti Airlines;306;06:40:00;07:40:00;Book Now
+31;Kathmandu;Mountain Flight;Yeti Airlines;307;06:45:00;07:45:00;Book Now
+32;Kathmandu;Mountain Flight;Yeti Airlines;401;07:45:00;08:45:00;Book Now
+33;Kathmandu;Nepalgunj;Yeti Airlines;421;09:20:00;10:15:00;Book Now
+34;Nepalgunj;Kathmandu;Yeti Airlines;422;10:35:00;11:30:00;Book Now
+35;Kathmandu;Nepalgunj;Yeti Airlines;423;15:50:00;16:45:00;Book Now
+36;Nepalgunj;Kathmandu;Yeti Airlines;424;17:05:00;18:00:00;Book Now
+37;Kathmandu;Janakpur;Yeti Airlines;571;10:30:00;10:55:00;Book Now
+38;Janakpur;Kathmandu;Yeti Airlines;572;11:15:00;11:40:00;Book Now
+39;Kathmandu;Janakpur;Yeti Airlines;573;15:40:00;16:05:00;Book Now
+40;Janakpur;Kathmandu;Yeti Airlines;574;16:35:00;17:00:00;Book Now
+41;Kathmandu;Pokhara;Yeti Airlines;681;14:10:00;14:35:00;Book Now
+42;Pokhara;Kathmandu;Yeti Airlines;682;14:55:00;15:20:00;Book Now
+43;Kathmandu;Biratnagar;Yeti Airlines;787;09:00:00;09:40:00;Book Now
+44;Biratnagar;Kathmandu;Yeti Airlines;788;10:00:00;10:40:00;Book Now
+45;Kathmandu;Biratnagar;Yeti Airlines;791;12:00:00;12:40:00;Book Now
+46;Biratnagar;Kathmandu;Yeti Airlines;792;13:00:00;13:40:00;Book Now
+47;Kathmandu;Biratnagar;Yeti Airlines;793;14:30:00;15:10:00;Book Now
+48;Biratnagar;Kathmandu;Yeti Airlines;794;15:30:00;16:10:00;Book Now
+49;Kathmandu;Biratnagar;Yeti Airlines;797;16:40:00;17:20:00;Book Now
+50;Biratnagar;Kathmandu;Yeti Airlines;798;17:40:00;18:20:00;Book Now
+51;Kathmandu;Bhairahawa;Yeti Airlines;891;09:20:00;09:50:00;Book Now
+52;Bhairahawa;Kathmandu;Yeti Airlines;892;10:10:00;10:40:00;Book Now
+53;Kathmandu;Bhairahawa;Yeti Airlines;893;16:30:00;17:00:00;Book Now
+54;Bhairahawa;Kathmandu;Yeti Airlines;894;17:20:00;17:50:00;Book Now
+55;Kathmandu;Bhadrapur;Yeti Airlines;921;10:10:00;10:55:00;Book Now
+56;Bhadrapur;Kathmandu;Yeti Airlines;922;11:15:00;12:00:00;Book Now
+57;Kathmandu;Bhadrapur;Yeti Airlines;925;13:50:00;14:35:00;Book Now
+58;Bhadrapur;Kathmandu;Yeti Airlines;926;14:55:00;15:40:00;Book Now
+59;Kathmandu;Tumlingtar;Yeti Airlines;751;11:10:00;11:45:00;Book Now
+60;Tumlingtar;Kathmandu;Yeti Airlines;752;12:05:00;12:40:00;Book Now
+61;Kathmandu;Mountain Flight;Buddha Air;U4 102;06:15:00;07:15:00;Book Now
+62;Kathmandu;Mountain Flight;Buddha Air;U4 104;06:15:00;07:15:00;Book Now
+63;Kathmandu;Mountain Flight;Buddha Air;U4 100;06:15:00;07:15:00;Book Now
+64;Kathmandu;Mountain Flight;Buddha Air;U4 201;07:15:00;08:15:00;Book Now
+65;Kathmandu;Mountain Flight;Buddha Air;U4 202;07:15:00;08:15:00;Book Now
+66;Kathmandu;Mountain Flight;Buddha Air;U4 203;07:15:00;08:15:00;Book Now
+67;Kathmandu;Mountain Flight;Yeti Airlines;U4 204;08:00:00;09:00:00;Book Now
+68;Kathmandu;Bhadrapur;Buddha Air;U4 951;10:00:00;10:50:00;Book Now
+69;Kathmandu;Bhadrapur;Buddha Air;U4 953;13:40:00;14:30:00;Book Now
+70;Kathmandu;Bhairahawa;Buddha Air;U4 851;09:00:00;09:35:00;Book Now
+71;Kathmandu;Bhairahawa;Buddha Air;U4 853;13:30:00;14:05:00;Book Now
+72;Kathmandu;Bhairahawa;Buddha Air;U4 855;16:40:00;17:15:00;Book Now
+73;Kathmandu;Bharatpur;Buddha Air;U4 351;10:50:00;11:10:00;Book Now
+74;Kathmandu;Bharatpur;Buddha Air;U4 353;14:20:00;14:40:00;Book Now
+75;Kathmandu;Biratnagar;Buddha Air;U4 703;07:45:00;08:25:00;Book Now
+76;Kathmandu;Biratnagar;Buddha Air;U4 705;10:00:00;10:40:00;Book Now
+77;Kathmandu;Biratnagar;Buddha Air;U4 707;12:20:00;13:00:00;Book Now
+78;Kathmandu;Biratnagar;Buddha Air;U4 709;14:40:00;15:20:00;Book Now
+79;Kathmandu;Biratnagar;Buddha Air;U4 713;15:50:00;16:30:00;Book Now
+80;Kathmandu;Biratnagar;Buddha Air;U4 711;16:50:00;17:30:00;Book Now
+81;Kathmandu;Dhangadi;Buddha Air;U4 251;12:30:00;13:40:00;Book Now
+82;Kathmandu;Janakpur;Buddha Air;U4 501;09:30:00;09:55:00;Book Now
+83;Kathmandu;Janakpur;Buddha Air;U4 505;15:10:00;15:35:00;Book Now
+84;Kathmandu;Nepalgunj;Buddha Air;U4 451;08:00:00;09:00:00;Book Now
+85;Kathmandu;Nepalgunj;Buddha Air;U4 405;16:10:00;17:10:00;Book Now
+86;Kathmandu;Pokhara;Yeti Airlines;U4 601;07:40:00;08:10:00;Book Now
+87;Kathmandu;Pokhara;Buddha Air;U4 603;08:30:00;09:00:00;Book Now
+88;Kathmandu;Pokhara;Buddha Air;U4 617;15:20:00;15:50:00;Book Now
+89;Kathmandu;Simara;Buddha Air;U4 551;09:30:00;09:45:00;Book Now
+90;Kathmandu;Simara;Buddha Air;U4 553;10:30:00;10:45:00;Book Now
+91;Kathmandu;Simara;Buddha Air;U4 555;12:00:00;12:15:00;Book Now
+92;Kathmandu;Simara;Buddha Air;U4 559;14:00:00;14:15:00;Book Now
+93;Kathmandu;Simara;Buddha Air;U4 561;15:00:00;15:15:00;Book Now
+94;Kathmandu;Simara;Buddha Air;U4 563;16:00:00;16:15:00;Book Now
+95;Kathmandu;Surkhet;Buddha Air;U4 133;13:10:00;14:15:00;Book Now
+96;Kathmandu;Tumlingtar;Buddha Air;U4 281;10:20:00;10:55:00;Book Now
+97;Bhadrapur;Kathmandu;Buddha Air;U4 952;11:15:00;12:05:00;Book Now
+98;Bhadrapur;Kathmandu;Buddha Air;U4 954;14:55:00;15:45:00;Book Now
+99;Bhairahawa;Kathmandu;Buddha Air;U4 852;09:55:00;10:30:00;Book Now
+100;Bhairahawa;Kathmandu;Buddha Air;U4 854;14:20:00;14:55:00;Book Now
+101;Bhairahawa;Kathmandu;Buddha Air;U4 856;17:35:00;18:10:00;Book Now
+102;Bharatpur;Kathmandu;Buddha Air;U4 352;11:30:00;11:50:00;Book Now
+103;Bharatpur;Kathmandu;Buddha Air;U4 356;14:55:00;15:15:00;Book Now
+104;Biratnagar;Kathmandu;Buddha Air;U4 704;08:50:00;09:30:00;Book Now
+105;Biratnagar;Kathmandu;Buddha Air;U4 706;11:05:00;11:45:00;Book Now
+106;Biratnagar;Kathmandu;Buddha Air;U4 708;13:25:00;14:05:00;Book Now
+107;Biratnagar;Kathmandu;Buddha Air;U4 710;15:45:00;16:25:00;Book Now
+108;Biratnagar;Kathmandu;Buddha Air;U4 714;16:50:00;17:30:00;Book Now
+109;Biratnagar;Kathmandu;Buddha Air;U4 712;17:55:00;18:35:00;Book Now
+110;Biratnagar;Tumlingtar;Buddha Air;U4 692;11:45:00;12:00:00;Book Now
+111;Dhangadhi;Kathmandu;Buddha Air;U4 252;14:05:00;15:15:00;Book Now
+112;Janakpur;Kathmandu;Buddha Air;U4 502;10:15:00;10:40:00;Book Now
+113;Janakpur;Kathmandu;Buddha Air;U4 506;15:55:00;16:20:00;Book Now
+114;Nepalgunj;Kathmandu;Buddha Air;U4 452;09:20:00;10:20:00;Book Now
+115;Nepalgunj;Kathmandu;Buddha Air;U4 406;17:40:00;18:40:00;Book Now
+116;Pokhara;Kathmandu;Buddha Air;U4 602;08:30:00;09:00:00;Book Now
+117;Pokhara;Kathmandu;Buddha Air;U4 618;16:10:00;16:40:00;Book Now
+118;Simara;Kathmandu;Buddha Air;U4 552;09:50:00;10:05:00;Book Now
+119;Simara;Kathmandu;Buddha Air;U4 554;10:50:00;11:05:00;Book Now
+120;Simara;Kathmandu;Buddha Air;U4 556;12:20:00;12:35:00;Book Now
+121;Simara;Kathmandu;Buddha Air;U4 560;14:20:00;14:35:00;Book Now
+122;Simara;Kathmandu;Buddha Air;U4 562;15:20:00;15:35:00;Book Now
+123;Simara;Kathmandu;Buddha Air;U4 564;16:20:00;16:35:00;Book Now
+124;Surkhet;Kathmandu;Buddha Air;U4 134;14:30:00;15:35:00;Book Now
+125;Tumlingtar;Biratnagar;Buddha Air;U4 691;11:10:00;11:25:00;Book Now
+126;Tumlingtar;Kathmandu;Buddha Air;U4 282;12:20:00;12:55:00;Book Now
+127;Kathmandu;Lukla;Tara Airlines;TA 103;06:35:00;07:10:00;Book Now
+128;Kathmandu;Lukla;Tara Airlines;TA CHT;06:40:00;07:15:00;Book Now
+129;Kathmandu;Lukla;Tara Airlines;TA CHT;08:10:00;08:45:00;Book Now
+130;Kathmandu;Lukla;Tara Airlines;TA CHT;08:15:00;08:50:00;Book Now
+131;Kathmandu;Lukla;Tara Airlines;TA CHT;08:20:00;08:55:00;Book Now
+132;Kathmandu;Lukla;Tara Airlines;TA CHT;09:50:00;10:25:00;Book Now
+133;Kathmandu;Lukla;Tara Airlines;TA CHT;11:30:00;12:05:00;Book Now
+134;Kathmandu;Lukla;Tara Airlines;TA CHT;11:35:00;12:10:00;Book Now
+135;Kathmandu;Lukla;Tara Airlines;TA CHT;11:40:00;12:15:00;Book Now
+136;Kathmandu;Lukla;Tara Airlines;TA CHT;13:20:00;13:55:00;Book Now
+137;Kathmandu;Phaplu;Tara Airlines;TA 181 (1,5);09:55:00;10:30:00;Book Now
+138;Kathmandu;Lamidanda;Tara Airlines;TA 191 (3,7);10:00:00;10:35:00;Book Now
+139;Kathmandu;Ramechhap;Tara Airlines;TA 431 (5);13:05:00;13:30:00;Book Now
+140;Lukla;Kathmandu;Tara Airlines;TA CHT;07:25:00;08:00:00;Book Now
+141;Lukla;Kathmandu;Tara Airlines;TA CHT;07:30:00;08:05:00;Book Now
+142;Lukla;Kathmandu;Tara Airlines;TA CHT;09:00:00;09:35:00;Book Now
+143;Lukla;Kathmandu;Tara Airlines;TA CHT;09:05:00;09:40:00;Book Now
+144;Lukla;Kathmandu;Tara Airlines;TA CHT;09:10:00;09:45:00;Book Now
+145;Lukla;Kathmandu;Tara Airlines;TA CHT;10:40:00;11:15:00;Book Now
+146;Lukla;Kathmandu;Tara Airlines;TA CHT;12:20:00;12:55:00;Book Now
+147;Lukla;Kathmandu;Tara Airlines;TA CHT;12:25:00;13:00:00;Book Now
+148;Lukla;Kathmandu;Tara Airlines;TA CHT;12:30:00;13:05:00;Book Now
+149;Lukla;Kathmandu;Tara Airlines;TA CHT;14:10:00;14:45:00;Book Now
+150;Phaplu;Kathmandu;Tara Airlines;TA 182 (1,5);10:45:00;11:20:00;Book Now
+151;Lamidanda;Kathmandu;Tara Airlines;TA 192 (3,7);10:50:00;11:25:00;Book Now
+152;Ramechhap;Kathmandu;Tara Airlines;TA 432 (5);15:10:00;15:35:00;Book Now
+153;Nepalgunj;Dolpo;Tara Airlines;TA 717 (1);06:30:00;07:15:00;Book Now
+154;Nepalgunj;Rara;Tara Airlines;TA 715 (5);06:30:00;07:20:00;Book Now
+155;Nepalgunj;Simikot;Tara Airlines;TA 711 (4);06:30:00;07:30:00;Book Now
+156;Nepalgunj;Jumla;Tara Airlines;TA  713 (6);06:30:00;07:15:00;Book Now
+157;Nepalgunj;Bajura;Tara Airlines;TA  722 (3);06:30:00;07:05:00;Book Now
+158;Dolpo;Nepalgunj;Tara Airlines;TA  718 (1);07:30:00;08:15:00;Book Now
+159;Rara;Nepalgunj;Tara Airlines;TA  716 (5);07:35:00;08:25:00;Book Now
+160;Simikot;Nepalgunj;Tara Airlines;TA 712 (4);07:45:00;08:45:00;Book Now
+161;Jumla;Nepalgunj;Tara Airlines;TA 714 (6);07:30:00;08:15:00;Book Now
+162;Bajura;Nepalgunj;Tara Airlines;TA 722 (3);07:20:00;07:55:00;Book Now
+163;Surkhet;Simikot;Tara Airlines;TA  719 (7);06:30:00;07:15:00;Book Now
+164;Surkhet;Dolpo;Tara Airlines;TA 709 (2);06:30:00;07:10:00;Book Now
+165;Surkhet;Jumla;Tara Airlines;TA  723 (2);08:20:00;08:45:00;Book Now
+166;Simikot;Surkhet;Tara Airlines;TA  720 (7);07:30:00;08:15:00;Book Now
+167;Dolpo;Surkhet;Tara Airlines;TA  710 (2);07:25:00;08:05:00;Book Now
+168;Jumla;Surkhet;Tara Airlines;TA  724 (3);09:00:00;09:25:00;Book Now
+169;Kathmandu;Pokhara;Tara Airlines;TA  227;15:30:00;16:00:00;Book Now
+170;Kathmandu;Lukla;Tara Airlines;TA  095;06:30:00;07:00:00;Book Now
+171;Kathmandu;Lukla;Tara Airlines;TA 097;08:00:00;08:30:00;Book Now
+172;Kathmandu;Lukla;Tara Airlines;TA 099;09:30:00;10:00:00;Book Now
+173;Lukla;Kathmandu;Tara Airlines;TA 096;07:15:00;07:45:00;Book Now
+174;Lukla;Kathmandu;Tara Airlines;TA 098;08:45:00;09:15:00;Book Now
+175;Lukla;Kathmandu;Tara Airlines;TA  100;10:15:00;10:45:00;Book Now
+176;Pokhara;Kathmandu;Tara Airlines;TA 228;09:30:00;10:00:00;Book Now
+177;Pokhara;Jomsom;Tara Airlines;TA 193;06:30:00;06:50:00;Book Now
+178;Jomsom;Pokhara;Tara Airlines;TA 194;07:05:00;07:25:00;Book Now
+179;Kathmandu;Mountain Flight;Simrik Airlines;RMK 101;06:30:00;07:30:00;Book Now
+180;Kathmandu;Mountain Flight;Simrik Airlines;RMK 201;06:45:00;07:45:00;Book Now
+181;Kathmandu;Mountain Flight;Simrik Airlines;RMK 102;07:45:00;08:45:00;Book Now
+182;Kathmandu;Mountain Flight;Simrik Airlines;RMK 202;08:00:00;09:00:00;Book Now
+183;Kathmandu;Mountain Flight;Simrik Airlines;RMK 103;09:00:00;10:00:00;Book Now
+184;Kathmandu;Lukla;Simrik Airlines;RMK 20;06:15:00;06:40:00;Book Now
+185;Lukla;Kathmandu;Simrik Airlines;RMK 21;06:50:00;07:15:00;Book Now
+186;Kathmandu;Lukla;Simrik Airlines;RMK 22;07:30:00;07:55:00;Book Now
+187;Lukla;Kathmandu;Simrik Airlines;RMK 22;08:05:00;08:30:00;Book Now
+188;Kathmandu;Lukla;Simrik Airlines;RMK 24;08:45:00;09:10:00;Book Now
+189;Lukla;Kathmandu;Simrik Airlines;RMK 25;09:20:00;09:45:00;Book Now
+190;Kathmandu;Lukla;Simrik Airlines;RMK 26;10:00:00;10:25:00;Book Now
+191;Lukla;Lukla;Simrik Airlines;RMK 27;10:35:00;11:00:00;Book Now
+192;Kathmandu;Pokhara;Simrik Airlines;RMK 151;10:15:00;10:45:00;Book Now
+193;Pokhara;Kathmandu;Simrik Airlines;RMK 152;11:00:00;11:30:00;Book Now
+194;Kathmandu;Pokhara;Simrik Airlines;RMK 153;11:45:00;12:15:00;Book Now
+195;Pokhara;Kathmandu;Simrik Airlines;RMK 154;12:30:00;13:00:00;Book Now
+196;Kathmandu;Pokhara;Simrik Airlines;RMK 155;13:45:00;14:15:00;Book Now
+197;Pokhara;Kathmandu;Simrik Airlines;RMK 156;14:30:00;15:00:00;Book Now
+198;Kathmandu;Pokhara;Simrik Airlines;RMK 157;13:15:00;13:45:00;Book Now
+199;Pokhara;Kathmandu;Simrik Airlines;RMK 158;14:00:00;14:30:00;Book Now
+200;Kathmandu;Pokhara;Simrik Airlines;RMK 159;14:45:00;15:15:00;Book Now
+201;Pokhara;Kathmandu;Simrik Airlines;RMK 160;15:30:00;16:00:00;Book Now
+202;Kathmandu;Simara;Simrik Airlines;RMK 111;10:30:00;10:45:00;Book Now
+203;Simara;Kathmandu;Simrik Airlines;RMK 112;11:00:00;11:15:00;Book Now
+204;Kathmandu;Simara;Simrik Airlines;RMK 113;15:30:00;15:45:00;Book Now
+205;Simara;Kathmandu;Simrik Airlines;RMK 114;16:00:00;16:15:00;Book Now
+206;Kathmandu;Bhairahawa;Simrik Airlines;RMK 171;12:00:00;12:35:00;Book Now
+207;Bhairahawa;Kathmandu;Simrik Airlines;RMK 172;12:50:00;13:25:00;Book Now

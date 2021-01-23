@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/_collections/Array Sorting and Searching.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_collections/Arrays.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_collections/Dictionary.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_collections/List.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_collections/Set.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_collections/String.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_collections/Tuples.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_utilities/date_time_module.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_utilities/encrypt_decrypt.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_utilities/os_module.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/_utilities/sys_module.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/binary_operations.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/config.ini" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/config_io.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/csv_io.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/file_io.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/file_io_object.py" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/file_io/image1.png" charset="windows-1252" />
+    <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>

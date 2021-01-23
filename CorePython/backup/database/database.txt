@@ -1,0 +1,91 @@
+PostgreSQL
+
+https://api.elephantsql.com/console/5b087cf8-9678-403b-86c9-86baf926f46f/details
+Server: <john.db.elephantsql.com (john-01)>
+User & Default database: <jssslfkj>
+Password: <IgMQ6d4QzLNJ0Y0hhH_wld_XnLW3ox-1>
+URL: <postgres://jssslfkj:IgMQ6d4QzLNJ0Y0hhH_wld_XnLW3ox-1@john.db.elephantsql.com:5432/jssslfkj>
+API Key: b570b1d6-8c95-4797-b6b8-a8409c4cad4e
+
+1. Data Types
+- INTEGER
+- DECIMAL
+- SERIAL
+- VARCHAR
+- TIMESTAMP
+- BOOLEAN
+- ENUM
+
+2. DDL
+a. Create a Table
+CREATE TABLE TableName(
+    field_name1 data_type,
+    field_name2 data_type,
+    field_name3 data_type,
+    ......
+    field_nameN data_type
+);
+
+CREATE TABLE flights(
+id SERIAL not null primary key,
+Flight_From varchar(50) not null,
+Flight_To varchar(50) not null,
+Airlines varchar(50) not null,
+Duration int not null
+);
+
+NOTE:
+- field_name1 data_type PRIMARY KEY,
+- field_name2 data_type NOT NULL,
+- field_name3 data_type NULL,
+
+Commonly used Constraints
+- NOT NULL
+- UNIQUE
+- PRIMARY KEY
+- FOREIGN KEY
+- DEFAULT
+- CHECK
+
+3. DML
+a. Insert Record
+Syntax
+insert into table_name(field_name1,...., field_nameN) values(Value1,....,ValueN)
+
+b. Select Records
+Table Name : Flights
+Field Name : <id; Flight_From; Flight_To; Airlines; Duration>
+Syntax
+select * from table_name
+
+Example
+select * from flights
+select * from flights where flight_from ='Kathmandu'
+select * from flights where flight_from ='Kathmandu' and flight_to='Pokhara'
+select * from flights where (flight_from ='Dhangadhi' or flight_from ='Pokhara') and flight_to='Kathmandu'
+select * from flights where flight_from in ('Kathmandu', 'Pokhara')
+select * from flights where flight_from like '%an%'
+select * from flights limit 10
+select * from flights order by flight_from ASC
+select * from flights order by flight_from DESC
+select flight_from, count(id) from flights group by flight_from
+select count(flight_from) from flights
+select min(duration) from flights
+select max(duration) from flights
+select avg(duration) from flights
+
+c. Update Record
+update table_name set field_name=new values
+update table_name set field_name=new values where field_name=value
+update table_name set field_name=new values where field_name=value and field_name=value
+update table_name set field_name=new values where field_name=value or field_name=value
+update table_name set field_name=new values where field_name=value and field_name=value or field_name = value
+
+d. Delete Record
+delete from table_name
+delete from table_name where field_name = value
+delete from table_name where field_name = value and field_name = value
+delete from table_name where field_name = value or field_name = value
+delete from table_name where field_name = value and field_name = value or field_name = value
+
+4. Index
